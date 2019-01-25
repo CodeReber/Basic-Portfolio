@@ -1,0 +1,48 @@
+.header{
+    background-color: aqua;
+    position: relative;
+    margin-bottom: 10;
+    padding: 16;
+    height: 200px;
+}
+.head{
+    background-color: black;
+    /* position: absolute; */
+    display: inline-block;
+}
+.tag1{
+    background-color: aquamarine;
+    width: 25%;
+    text-align: center;
+    /* margin-left: 25%; */
+    top: 0;
+    padding: 10px;
+}
+.tag2{
+    background-color: rgb(127, 127, 27);
+    width: 50%;
+    /* margin-left: 10%; */
+    margin: 0;
+    right: 0;
+    top: 0;
+    padding: 10 px;
+}
+#main{
+    background-color: bisque;
+    width: 600px;
+    margin: 0 auto 0 auto;
+    padding: 20px;
+}
+#heading{
+    background-color: blue;
+    
+}
+#pic{
+    background-color: blueviolet;
+    float: left;
+}
+#foot{
+    clear: both;
+    background-color: brown;
+}
+
